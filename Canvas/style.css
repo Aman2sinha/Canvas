@@ -1,0 +1,8 @@
+canvas {
+    border: 1px solid #d3d3d3;
+    background-color:greenyellow;
+    border: solid 4px black;
+    position: absolute;
+    left: 20%;
+    top: 350px;
+ }
